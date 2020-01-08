@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/products/static/css/main.30b9b171.chunk.css",
-    "main.js": "/products/static/js/main.5d6376af.chunk.js",
-    "main.js.map": "/products/static/js/main.5d6376af.chunk.js.map",
+    "main.js": "/products/static/js/main.c7a8a1f2.chunk.js",
+    "main.js.map": "/products/static/js/main.c7a8a1f2.chunk.js.map",
     "runtime-main.js": "/products/static/js/runtime-main.e87216f2.js",
     "runtime-main.js.map": "/products/static/js/runtime-main.e87216f2.js.map",
-    "static/css/2.9a7b361c.chunk.css": "/products/static/css/2.9a7b361c.chunk.css",
-    "static/js/2.12db5b95.chunk.js": "/products/static/js/2.12db5b95.chunk.js",
-    "static/js/2.12db5b95.chunk.js.map": "/products/static/js/2.12db5b95.chunk.js.map",
+    "static/css/2.946f3bda.chunk.css": "/products/static/css/2.946f3bda.chunk.css",
+    "static/js/2.bb8965ad.chunk.js": "/products/static/js/2.bb8965ad.chunk.js",
+    "static/js/2.bb8965ad.chunk.js.map": "/products/static/js/2.bb8965ad.chunk.js.map",
     "index.html": "/products/index.html",
-    "precache-manifest.81a67edfdac79dfe6e69b0d1a9ce2577.js": "/products/precache-manifest.81a67edfdac79dfe6e69b0d1a9ce2577.js",
+    "precache-manifest.929723429431f49e48bb7078a2c435e8.js": "/products/precache-manifest.929723429431f49e48bb7078a2c435e8.js",
     "service-worker.js": "/products/service-worker.js",
-    "static/css/2.9a7b361c.chunk.css.map": "/products/static/css/2.9a7b361c.chunk.css.map",
+    "static/css/2.946f3bda.chunk.css.map": "/products/static/css/2.946f3bda.chunk.css.map",
     "static/css/main.30b9b171.chunk.css.map": "/products/static/css/main.30b9b171.chunk.css.map",
-    "static/js/2.12db5b95.chunk.js.LICENSE": "/products/static/js/2.12db5b95.chunk.js.LICENSE",
+    "static/js/2.bb8965ad.chunk.js.LICENSE": "/products/static/js/2.bb8965ad.chunk.js.LICENSE",
     "static/media/mdb.css": "/products/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/products/static/media/fa-solid-900.f6121be5.woff2",
     "static/media/iqhi.png": "/products/static/media/iqhi.a5c7e35c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e87216f2.js",
-    "static/css/2.9a7b361c.chunk.css",
-    "static/js/2.12db5b95.chunk.js",
+    "static/css/2.946f3bda.chunk.css",
+    "static/js/2.bb8965ad.chunk.js",
     "static/css/main.30b9b171.chunk.css",
-    "static/js/main.5d6376af.chunk.js"
+    "static/js/main.c7a8a1f2.chunk.js"
   ]
 }
